@@ -6,3 +6,7 @@
 ###### H6 header
 
 ![Image of a cat](https://www.dierenkliniektiel.nl/app/uploads/2023/08/kat.jpg)
+
+```
+print("Hello world")
+```
